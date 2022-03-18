@@ -9,8 +9,15 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=VITca64rus&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
-### :man_technologist: About Me :
+## :man_technologist: About Me :
+I am a beginner developer. 
+- :man_student: I study at Moscow State Technical University
+- :man_student: I study at ecole 42 (Moscow campus)
+---
+### :hammer_and_wrench: Languages and Tools :
+
 
 
 <!--
