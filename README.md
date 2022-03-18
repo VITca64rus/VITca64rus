@@ -17,6 +17,13 @@ I am a beginner developer.
 - :man_student: I study at ecole 42 (Moscow campus)
 ---
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+
+
+</div>
 
 
 
